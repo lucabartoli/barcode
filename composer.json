@@ -1,7 +1,7 @@
 {
     "name": "jbdemonte/barcode",
     "description": "BarCode Coder Library (BCC Library), GD and FPDF compatible",
-	"keywords": ["barcode","gd", "fpdf"],
+	"keywords": ["barcode", "gd", "fpdf"],
     "homepage": "http://barcode-coder.com/en/",
     "license": "GPL-3.0+",
     "authors": [
