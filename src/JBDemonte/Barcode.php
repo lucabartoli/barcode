@@ -1,5 +1,5 @@
 <?php
-/*
+/**
  *  BarCode Coder Library (BCC Library)
  *  BCCL Version 2.0.1
  *  Porting : Barcode PHP
